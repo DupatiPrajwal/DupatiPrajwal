@@ -3,15 +3,17 @@
 <!-- Profile Header -->
 <h3 align="center"> "The Unique Thoughts And Intrests Are Shared Here"....! </h1>
 
-## My Info:
+## 🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
+ 
+##  My Info 🐱
 
 ```yaml
-Name: Dupati Prajwal
-Title: Prorgamming newbie And Cricket Passionate.
-Languages: Python(Learning),Markdown
-Current Focus: Developing in Programming, Learining every language related to Programming.
-Hobbies: Watching cricket, Playing Cricket, Exploring new codes and testing them.
-Fun Fact: I dont know Proramming professionally.
+🔹Name: Dupati Prajwal
+🔹Title: Prorgamming newbie And Cricket Passionate.
+🔹Languages: Python(Learning),Markdown
+🔹Current Focus: Developing in Programming, Learining every language related to Programming.
+🔹Hobbies: Watching cricket, Playing Cricket, Exploring new codes and testing them.
+🔹Fun Fact: I dont know Proramming professionally.
 ```
 <p align="center">
   <img src="https://img.shields.io/badge/-Programming%20Newbie-yellow?style=flat"/>
@@ -24,7 +26,7 @@ Fun Fact: I dont know Proramming professionally.
 
 ```
 
-## 🧠 Quotes That Inspire Me
-> "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli
+##  Quotes That Inspire Me 🔥
+> "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli 🐐
 
 
