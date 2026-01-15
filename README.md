@@ -1,4 +1,4 @@
-![gif](https://github.com/DupatiPrajwal/DupatiPrajwal/blob/https://www.pinterest.com/pin/loading-kirokaze-pixel--6755468184706307/)
+
 
 <!-- Profile Header -->
 <h3 align="center"> "The Unique Thoughts And Intrests Are Shared Here"....! </h1>
