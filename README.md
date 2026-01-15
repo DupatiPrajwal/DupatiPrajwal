@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </p> -->
 
 <!-- Profile Header -->
-<h3 align="center">🌟  The Unique Thoughts And Intrestes Shared Here! </h1>
+<h3 align="center">🌟  The Unique Thoughts And Intrests Are Shared Here! </h1>
 
 ## 🔖 Who Am I?
 
