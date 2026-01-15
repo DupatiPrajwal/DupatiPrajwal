@@ -3,7 +3,7 @@
 <!-- Profile Header -->
 <h3 align="center"> "The Unique Thoughts And Intrests Are Shared Here"....! </h1>
 
-## 🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
+## <h3 align="center">🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
  
 ##  My Info 🐱
 
