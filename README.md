@@ -103,12 +103,7 @@
 </a>
 
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0072FF,100:00F7FF&height=120&section=footer&text=PRAJWAL.DEV&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
-</p>
-<div align="center">
-  <img src="https://giphy.com" width="600" />
-</div>
+<img width="500" height="100" alt="download (1)" src="https://github.com/user-attachments/assets/3011320a-8ab4-46d3-a4fc-9f30d70c8184" />
 
 
 
