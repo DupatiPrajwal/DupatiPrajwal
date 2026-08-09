@@ -1,5 +1,6 @@
 <img width="1000" height="576" alt="ff78f859-bc45-445d-ae42-84bb1d627b44" src="https://github.com/user-attachments/assets/989d285d-09e8-4432-9979-7ac828edc07d" />
-<h3 align="center"><img width="498" height="451" alt="Pixel Sticker – Pixel – Ищите GIF-файлы и обменивайтесь ими" src="https://github.com/user-attachments/assets/34fd7c8a-91e6-4400-8368-e19324c0b180" />
+<h3 align="center"><img width="640" height="640" alt="Blue Gemstone PNG Picture, Hand Painted Blue Five Star Gemstone, Blue Gems Illustration, Diamonds, Gems PNG Image For Free Download" src="https://github.com/user-attachments/assets/0ade4a14-cae5-4d02-ab33-dc878c5b1f4a" />
+
 
 
 
