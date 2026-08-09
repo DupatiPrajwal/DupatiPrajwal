@@ -104,7 +104,7 @@
 
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0072FF,100:111827&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:111827,100:00F7FF&height=180&section=footer"/>
 </p>
 
 
