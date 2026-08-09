@@ -40,7 +40,7 @@
 ║                                                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 
-## <h3 align="center">  Quotes That Inspire Me 🔥
+ Quotes That Inspire Me 🔥
 > "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli 🐐
 
 
