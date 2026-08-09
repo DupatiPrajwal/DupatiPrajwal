@@ -5,26 +5,40 @@
 
 ## <h3 align="center">🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
  
-##  My Info 🐱
+# ⚡ PRAJWAL.DEV
 
-```yaml
-🔹Name: Dupati Prajwal
-🔹Title: Prorgamming newbie And Cricket Passionate.
-🔹Languages: Python(Learning),Markdown
-🔹Current Focus: Developing in Programming, Learining every language related to Programming.
-🔹Hobbies: Watching cricket, Playing Cricket, Exploring new codes and testing them.
-🔹Fun Fact: I dont know Proramming professionally.
-```
 <p align="center">
-  <img src="https://img.shields.io/badge/-Programming%20Newbie-yellow?style=flat"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-red?style=flat"/>
-  <img src="https://img.shields.io/badge/-Cricketer-blue?style=flat&logo=book"/>
-  <img src="https://img.shields.io/badge/-Creative-green?style=flat&logo=palette"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;I'M+PRAJWAL+%E2%9A%A1;COMPUTER+SCIENCE+STUDENT+%F0%9F%92%BB;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEARN+%E2%80%A2+REPEAT"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PRAJWAL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRAJWAL&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=STARS"/>
+</p>
 
-```
+---
+
+## 🖥️ `SYSTEM STATUS`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                         PRAJWAL.DEV                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  USER        : PRAJWAL                                          ║
+║  ROLE        : COMPUTER SCIENCE STUDENT                         ║
+║  STATUS      : ● ONLINE                                         ║
+║  MODE        : LEARNING_MODE.ACTIVE                             ║
+║  MAIN LANG   : PYTHON 🐍                                        ║
+║  EDITOR      : VS CODE                                          ║
+║  PLATFORM    : GITHUB                                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
 ##  Quotes That Inspire Me 🔥
 > "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli 🐐
