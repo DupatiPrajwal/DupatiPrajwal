@@ -47,7 +47,7 @@
 
  Quotes That Inspire Me 🔥
 > "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli 🐐
-<img width="1000" height="572" alt="ff89fea1-527e-41f2-a07f-0a54a4c22ed1" src="https://github.com/user-attachments/assets/12a44774-69d3-44e3-b6d9-e85c503407b3" />
+
 
 
 
