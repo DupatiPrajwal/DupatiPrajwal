@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRAJWAL&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/OPEN_SOURCE_DEVELOPER?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=FOLLOWERS"/>
   <img src="https://img.shields.io/github/stars/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=STARS"/>
 </p>
 
@@ -29,15 +29,15 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                         PRAJWAL.DEV                              ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  USER        : PRAJWAL                                          ║
-║  ROLE        : COMPUTER SCIENCE STUDENT                         ║
-║  STATUS      : ● ONLINE                                         ║
-║  MODE        : LEARNING_MODE.ACTIVE                             ║
-║  MAIN LANG   : PYTHON 🐍                                        ║
-║  EDITOR      : VS CODE                                          ║
-║  PLATFORM    : GITHUB                                           ║
-║                                                                  ║
+║                                                                ║
+║  USER        : PRAJWAL                                      ║
+║  ROLE        : COMPUTER SCIENCE STUDENT                  ║
+║  STATUS      : ● ONLINE                               ║
+║  MODE        : LEARNING_MODE.ACTIVE                ║
+║  MAIN LANG   : PYTHON 🐍                              ║
+║  EDITOR      : VS CODE                                   ║
+║  PLATFORM    : GITHUB                                       ║
+║                                                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 ##  Quotes That Inspire Me 🔥
