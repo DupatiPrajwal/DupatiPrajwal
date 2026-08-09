@@ -5,19 +5,19 @@
 
 ## <h3 align="center">🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
  
-# ⚡ PRAJWAL.DEV
+<p align="center"># ⚡ OPEN SOURCE DEVELOPER
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;I'M+PRAJWAL+%E2%9A%A1;COMPUTER+SCIENCE+STUDENT+%F0%9F%92%BB;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEARN+%E2%80%A2+REPEAT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;I'M+PRAJWAL+%E2%9A%A1;COMPUTER+SCIENCE+STUDENT+%F0%9F%92%BB;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEARN+%E2%80%A2+EXPLORE+%E2%80%A2+PLAY+%E2%80%A2+REPEAT"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PRAJWAL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PRAJWAL.DEV&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRAJWAL&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/OPEN_SOURCE_DEVELOPER?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=FOLLOWERS"/>
   <img src="https://img.shields.io/github/stars/PRAJWAL?style=for-the-badge&color=00F7FF&labelColor=0D1117&label=STARS"/>
 </p>
 
