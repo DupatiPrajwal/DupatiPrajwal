@@ -47,6 +47,65 @@
 
  Quotes That Inspire Me 🔥
 > "If You Wanna Give It, You Gotta Take It Not Give It." – Virat Kohli 🐐
+```
+## 👨‍💻 What I Do
+
+```text
+→ Write Python programs
+→ Build small projects
+→ Explore new technologies
+→ Solve programming problems
+→ Experiment with new ideas
+→ Learn from every bug
+```
+
+
+## 🧰 Tech Arsenal
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css&theme=dark"/>
+</p>
+
+## 🔥 Currently Exploring
+
+```text
+🐍 Python
+🧠 Object-Oriented Programming
+🗄️ MySQL
+🌐 HTML,C/C++ & CSS(Under Progress)
+🔧 Git & GitHub
+🧩 Problem Solving
+```
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PRAJWAL&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🎮 Outside The Code
+
+🏏 Cricket  
+🎧 Music  
+🎬 Movies  
+💻 Technology  
+🚀 Exploring new things
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/DupatiPrajwal">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/Dupati Prajwal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 
 
 
