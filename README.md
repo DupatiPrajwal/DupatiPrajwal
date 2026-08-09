@@ -103,7 +103,7 @@
 </a>
 
 </p>
-<img width="500" height="100" alt="download (1)" src="https://github.com/user-attachments/assets/3011320a-8ab4-46d3-a4fc-9f30d70c8184" />
+<img width="1000" height="150" alt="download (1)" src="https://github.com/user-attachments/assets/3011320a-8ab4-46d3-a4fc-9f30d70c8184" />
 
 
 
