@@ -1,4 +1,4 @@
-![My GIF](./gifs/hrzn/ff78f859-bc45-445d-ae42-84bb1d627b44.gif)
+![Prajwal GIF](https://raw.githubusercontent.com/PRAJWAL/PRAJWAL/main/gifs/hrzn/ff78f859-bc45-445d-ae42-84bb1d627b44.gif)
 
 <!-- Profile Header -->
 <h3 align="center"> "The Unique Thoughts And Intrests Are Shared Here"....! </h1>
