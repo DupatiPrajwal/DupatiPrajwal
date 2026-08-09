@@ -67,7 +67,7 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,cpp,c,java&theme=dark"/>
 </p>
 
-## 🔥 Currently Exploring
+## 🔥 Currently Working On
 
 ```text
 🐍 Python
@@ -78,7 +78,7 @@
 🧩 Problem Solving
 ```
 
-## 🎮 Outside The Code
+## 🎮 My Core 
 
 🏏 Cricket  
 🎧 Music  
@@ -86,7 +86,7 @@
 💻 Technology  
 🚀 Exploring new things
 
-## 🌐 Connect With Me
+## 🌐 Connect Through 
 
 <p align="center">
 
