@@ -5,7 +5,7 @@
 
 ## <h3 align="center">🌟 EVERY FAILURE IS SUCCEEDING STEP OF IMPOSSIBILITY 🌟
  
-<p align="center"># ⚡ OPEN SOURCE DEVELOPER
+<p align="center">## ⚡ OPEN SOURCE DEVELOPER
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;I'M+PRAJWAL+%E2%9A%A1;COMPUTER+SCIENCE+STUDENT+%F0%9F%92%BB;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEARN+%E2%80%A2+EXPLORE+%E2%80%A2+PLAY+%E2%80%A2+REPEAT"/>
