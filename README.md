@@ -106,7 +106,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0072FF,100:00F7FF&height=120&section=footer&text=PRAJWAL.DEV&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
-
+<div align="center">
+  <img src="https://giphy.com" width="600" />
+</div>
 
 
 
