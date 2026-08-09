@@ -64,7 +64,7 @@
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,c++,c,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,cpp,c,java&theme=dark"/>
 </p>
 
 ## 🔥 Currently Exploring
@@ -102,6 +102,9 @@
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0072FF,100:111827&height=150&section=footer"/>
 </p>
 
 
