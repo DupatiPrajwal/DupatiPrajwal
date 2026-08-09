@@ -1,5 +1,6 @@
 <img width="1000" height="576" alt="ff78f859-bc45-445d-ae42-84bb1d627b44" src="https://github.com/user-attachments/assets/989d285d-09e8-4432-9979-7ac828edc07d" />
-<h3 align="center"><img width="100" height="100" alt="Blue Gemstone PNG Picture, Hand Painted Blue Five Star Gemstone, Blue Gems Illustration, Diamonds, Gems PNG Image For Free Download" src="https://github.com/user-attachments/assets/0ade4a14-cae5-4d02-ab33-dc878c5b1f4a" />
+<h3 align="center"><img width="150" height="150" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/b870494b-1ff9-4b6d-922b-83cc97477149" />
+
 
 
 
