@@ -64,7 +64,7 @@
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,c/c++&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,c++,c,java&theme=dark"/>
 </p>
 
 ## 🔥 Currently Exploring
